@@ -1,19 +1,25 @@
 ### Hi there 👋
 
-<img align="left" height="32" width="32" alt="sass" title="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img align="left" height="32" width="32" alt="css3" title="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" height="32" width="32" alt="html5" title="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" height="32" width="32" alt="angular" title="angular" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img align="left" height="32" width="32" alt="javascript" title="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" height="32" width="32" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img align="left" height="32" width="32" alt="typescript" title="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-
 <img align="left" height="32" width="32" alt="java" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" height="32" width="32" alt="spring" title="spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
-<img align="left" height="32" width="32" alt="swagger" title="swagger" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />
 <img align="left" height="32" width="32" alt="reactivex" title="reactivex" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reactivex.svg" />
+<img align="left" height="32" width="32" alt="swagger" title="swagger" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />
 <img align="left" height="32" width="32" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img height="32" width="32" alt="npm" title="npm" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
+<img align="left" height="32" width="32" alt="javascript" title="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" height="32" width="32" alt="typescript" title="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+<img align="left" height="32" width="32" alt="angular" title="angular" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img align="left" height="32" width="32" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" height="32" width="32" alt="css3" title="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img height="32" width="32" alt="html5" title="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+
+
+
+
+
+
+
+
+
 
 
 
