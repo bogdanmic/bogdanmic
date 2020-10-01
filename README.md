@@ -57,29 +57,20 @@
 <img align="left" alt="visualstudiocode" title="visualstudiocode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="intellijidea" title="intellijidea" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
 <img align="left" alt="jsonwebtokens" title="jsonwebtokens" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jsonwebtokens.svg" />
-<img align="left" alt="gnubash" title="gnubash" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
+<img alt="gnubash" title="gnubash" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
 
-
-
-
-<img align="left" alt="hbo" title="hbo" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hbo.svg" />
-<img align="left" alt="imdb" title="imdb" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />
-<img align="left" alt="steam" title="steam" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
-<img align="left" alt="dolby" title="dolby" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dolby.svg" />
-<img align="left" alt="vivino" title="vivino" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vivino.svg" />
-<img align="left" alt="deezer" title="deezer" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deezer.svg" />
-<img align="left" alt="garmin" title="garmin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/garmin.svg" />
-
-<img align="left" alt="gog" title="gog" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gog-dot-com.svg" />
-<img align="left" alt="netflix" title="netflix" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
-<img align="left" alt="ubisoft" title="ubisoft" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubisoft.svg" />
-<img align="left" alt="retropie" title="retropie" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/retropie.svg" />
-
-<img align="left" alt="audacity" title="audacity" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/audacity.svg" />
-<img align="left" alt="goodreads" title="goodreads" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />
-<img align="left" alt="cdprojekt" title="cdprojekt" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cdprojekt.svg" />
-<img align="left" alt="sennheiser" title="sennheiser" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sennheiser.svg" />
-<img align="left" alt="playstation" title="playstation" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" />
+##### Hobbies
+<img align="left" alt="imdb" title="imdb" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />
+<img align="left" alt="netflix" title="netflix" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
+<img align="left" alt="steam" title="steam" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+<img align="left" alt="vivino" title="vivino" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vivino.svg" />
+<img align="left" alt="garmin" title="garmin" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/garmin.svg" />
+<img align="left" alt="gog" title="gog" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gog-dot-com.svg" />
+<img align="left" alt="ubisoft" title="ubisoft" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubisoft.svg" />
+<img align="left" alt="retropie" title="retropie" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/retropie.svg" />
+<img align="left" alt="goodreads" title="goodreads" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />
+<img align="left" alt="cdprojekt" title="cdprojekt" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cdprojekt.svg" />
+<img align="left" alt="playstation" title="playstation" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" />
 
 
 
