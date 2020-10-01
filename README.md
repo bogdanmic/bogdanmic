@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+##### Languages and Tools:
 <img align="left" height="32" width="32" alt="java" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" height="32" width="32" alt="spring" title="spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
 <img align="left" height="32" width="32" alt="reactivex" title="reactivex" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reactivex.svg" />
@@ -24,7 +25,7 @@
 <img align="left" height="32" width="32" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img height="32" width="32" alt="elasticsearch" title="elasticsearch" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" />
 
-##### Hobbies
+##### Hobbies:
 <img align="left" height="32" width="32" alt="imdb" title="imdb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />
 <img align="left" height="32" width="32" alt="netflix" title="netflix" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
 
