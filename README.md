@@ -1,63 +1,63 @@
 ### Hi there 👋
 
-<img align="left" alt="npm" title="npm" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
-<img align="left" alt="git" title="git" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="php" title="php" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
-<img align="left" alt="sass" title="sass" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img align="left" alt="gulp" title="gulp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gulp.svg" />
-<img align="left" alt="java" title="java" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" height="32" width="32" alt="npm" title="npm" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
+<img align="left" height="32" width="32" alt="git" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" height="32" width="32" alt="php" title="php" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img align="left" height="32" width="32" alt="sass" title="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img align="left" height="32" width="32" alt="gulp" title="gulp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gulp.svg" />
+<img align="left" height="32" width="32" alt="java" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 
-<img align="left" alt="yarn" title="yarn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
-<img align="left" alt="css3" title="css3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="jira" title="jira" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
-<img align="left" alt="scala" title="scala" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scala.svg" />
-<img align="left" alt="html5" title="html5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="linux" title="linux" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img align="left" height="32" width="32" alt="yarn" title="yarn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
+<img align="left" height="32" width="32" alt="css3" title="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" height="32" width="32" alt="jira" title="jira" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
+<img align="left" height="32" width="32" alt="scala" title="scala" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scala.svg" />
+<img align="left" height="32" width="32" alt="html5" title="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" height="32" width="32" alt="linux" title="linux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 
-<img align="left" alt="nginx" title="nginx" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />
-<img align="left" alt="mysql" title="mysql" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-<img align="left" alt="consul" title="consul" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/consul.svg" />
-<img align="left" alt="meteor" title="meteor" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/meteor.svg" />
-<img align="left" alt="ubuntu" title="ubuntu" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" />
+<img align="left" height="32" width="32" alt="nginx" title="nginx" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />
+<img align="left" height="32" width="32" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" height="32" width="32" alt="consul" title="consul" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/consul.svg" />
+<img align="left" height="32" width="32" alt="meteor" title="meteor" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/meteor.svg" />
+<img align="left" height="32" width="32" alt="ubuntu" title="ubuntu" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" />
 
-<img align="left" alt="openid" title="openid" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openid.svg" />
-<img align="left" alt="spring" title="spring" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
-<img align="left" alt="vuejs" title="vuejs" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
-<img align="left" alt="kibana" title="kibana" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kibana.svg" />
-<img align="left" alt="docker" title="docker" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img align="left" alt="eslint" title="eslint" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eslint.svg" />
+<img align="left" height="32" width="32" alt="openid" title="openid" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openid.svg" />
+<img align="left" height="32" width="32" alt="spring" title="spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
+<img align="left" height="32" width="32" alt="vuejs" title="vuejs" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" height="32" width="32" alt="kibana" title="kibana" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kibana.svg" />
+<img align="left" height="32" width="32" alt="docker" title="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<img align="left" height="32" width="32" alt="eslint" title="eslint" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eslint.svg" />
 
-<img align="left" alt="github" title="github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="angular" title="angular" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img align="left" alt="jenkins" title="jenkins" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-<img align="left" alt="postman" title="postman" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
-<img align="left" alt="swagger" title="swagger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />
-<img align="left" alt="nodejs" title="nodejs" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img align="left" alt="mongodb" title="mongodb" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<img align="left" height="32" width="32" alt="github" title="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" height="32" width="32" alt="angular" title="angular" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img align="left" height="32" width="32" alt="jenkins" title="jenkins" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
+<img align="left" height="32" width="32" alt="postman" title="postman" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
+<img align="left" height="32" width="32" alt="swagger" title="swagger" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />
+<img align="left" height="32" width="32" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" height="32" width="32" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 
-<img align="left" alt="elasticsearch" title="elastic" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" />
-<img align="left" alt="windows" title="windows" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
-<img align="left" alt="quarkus" title="quarkus" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quarkus.svg" />
-<img align="left" alt="fastify" title="fastify" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fastify.svg" />
+<img align="left" height="32" width="32" alt="elasticsearch" title="elastic" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" />
+<img align="left" height="32" width="32" alt="windows" title="windows" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
+<img align="left" height="32" width="32" alt="quarkus" title="quarkus" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quarkus.svg" />
+<img align="left" height="32" width="32" alt="fastify" title="fastify" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fastify.svg" />
 
 
-<img align="left" alt="rabbitmq" title="rabbitmq" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" />
-<img align="left" alt="electron" title="electron" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" />
-<img align="left" alt="logstash" title="logstash" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/logstash.svg" />
-<img align="left" alt="reactivex" title="reactivex" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reactivex.svg" />
-<img align="left" alt="bootstrap" title="bootstrap" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img align="left" alt="javascript" title="javascript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="linuxmint" title="linuxmint" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linuxmint.svg" />
+<img align="left" height="32" width="32" alt="rabbitmq" title="rabbitmq" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" />
+<img align="left" height="32" width="32" alt="electron" title="electron" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" />
+<img align="left" height="32" width="32" alt="logstash" title="logstash" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/logstash.svg" />
+<img align="left" height="32" width="32" alt="reactivex" title="reactivex" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reactivex.svg" />
+<img align="left" height="32" width="32" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" height="32" width="32" alt="javascript" title="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" height="32" width="32" alt="linuxmint" title="linuxmint" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linuxmint.svg" />
 
-<img align="left" alt="typescript" title="typescript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img align="left" alt="postgresql" title="postgresql" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
-<img align="left" alt="amazonaws" title="amazonaws" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
-<img align="left" alt="phabricator" title="phabricator" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phabricator.svg" />
-<img align="left" alt="letsencrypt" title="letsencrypt" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letsencrypt.svg" />
-<img align="left" alt="visualstudiocode" title="visualstudiocode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="intellijidea" title="intellijidea" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
-<img align="left" alt="jsonwebtokens" title="jsonwebtokens" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jsonwebtokens.svg" />
-<img alt="gnubash" title="gnubash" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
+<img align="left" height="32" width="32" alt="typescript" title="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+<img align="left" height="32" width="32" alt="postgresql" title="postgresql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" height="32" width="32" alt="amazonaws" title="amazonaws" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img align="left" height="32" width="32" alt="phabricator" title="phabricator" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phabricator.svg" />
+<img align="left" height="32" width="32" alt="letsencrypt" title="letsencrypt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letsencrypt.svg" />
+<img align="left" height="32" width="32" alt="visualstudiocode" title="visualstudiocode" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" height="32" width="32" alt="intellijidea" title="intellijidea" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
+<img align="left" height="32" width="32" alt="jsonwebtokens" title="jsonwebtokens" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jsonwebtokens.svg" />
+<img  height="32" width="32" alt="gnubash" title="gnubash" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
 
 ##### Hobbies
 <img align="left" height="32" width="32" alt="imdb" title="imdb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />
