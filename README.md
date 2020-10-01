@@ -35,15 +35,7 @@
 <img align="left" height="32" width="32" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" height="32" width="32" alt="rabbitmq" title="rabbitmq" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" />
 <img align="left" height="32" width="32" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-<img align="left" height="32" width="32" alt="elasticsearch" title="elasticsearch" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" />
-
-
-
-
-
-
-
-
+<img height="32" width="32" alt="elasticsearch" title="elasticsearch" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" />
 
 ##### Hobbies
 <img align="left" height="32" width="32" alt="imdb" title="imdb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />
