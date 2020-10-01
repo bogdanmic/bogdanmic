@@ -62,18 +62,16 @@
 ##### Hobbies
 <img align="left" alt="imdb" title="imdb" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />
 <img align="left" alt="netflix" title="netflix" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
-<img align="left" alt="steam" title="steam" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
-<img align="left" alt="vivino" title="vivino" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vivino.svg" />
-<img align="left" alt="garmin" title="garmin" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/garmin.svg" />
-<img align="left" alt="gog" title="gog" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gog-dot-com.svg" />
-<img align="left" alt="ubisoft" title="ubisoft" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubisoft.svg" />
-<img align="left" alt="retropie" title="retropie" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/retropie.svg" />
-<img align="left" alt="goodreads" title="goodreads" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />
-<img align="left" alt="cdprojekt" title="cdprojekt" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cdprojekt.svg" />
+
 <img align="left" alt="playstation" title="playstation" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" />
+<img align="left" alt="gog" title="gog" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gog-dot-com.svg" />
+<img align="left" alt="steam" title="steam" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+<img align="left" alt="retropie" title="retropie" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/retropie.svg" />
 
+<img align="left" alt="vivino" title="vivino" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vivino.svg" />
+<img align="left" alt="goodreads" title="goodreads" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />
 
-
+<img align="left" alt="garmin" title="garmin" width="30px" height="auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/garmin.svg" />
 
 <!--
 **bogdanmic/bogdanmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
