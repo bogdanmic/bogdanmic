@@ -13,23 +13,14 @@
 <img height="32" width="32" alt="html5" title="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
 
-
-
-
-
-
-
-
-
-
-
 <img align="left" height="32" width="32" alt="amazonaws" title="amazonaws" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 <img align="left" height="32" width="32" alt="docker" title="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 <img align="left" height="32" width="32" alt="nginx" title="nginx" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />
 <img align="left" height="32" width="32" alt="jenkins" title="jenkins" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
+<img align="left" height="32" width="32" alt="linux" title="linux" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 <img align="left" height="32" width="32" alt="postgresql" title="postgresql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
-<img align="left" height="32" width="32" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" height="32" width="32" alt="rabbitmq" title="rabbitmq" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" />
+<img align="left" height="32" width="32" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" height="32" width="32" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img height="32" width="32" alt="elasticsearch" title="elasticsearch" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" />
 
